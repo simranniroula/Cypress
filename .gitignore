@@ -1,0 +1,4 @@
+node_modules
+cypress/e2e/genese.cy.js
+cypress/e2e/google.cy.js
+cypress/e2e/kia.cy.js
